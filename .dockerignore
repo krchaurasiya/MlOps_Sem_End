@@ -1,0 +1,31 @@
+# Ignore everything by default, then whitelist
+**
+
+# Whitelist
+!app/
+!app/**
+!model/
+!model/rank_model.pkl
+!frontend/
+!frontend/**
+!requirements.txt
+!Dockerfile
+!nginx.conf
+!pyproject.toml
+
+# Never copy these even if whitelisted
+**/__pycache__
+**/*.pyc
+**/.git
+**/.github
+**/mlruns
+**/mlflow.db
+**/mlartifacts
+**/.dvc
+**/data
+**/.venv
+**/venv
+**/tests
+**/*.ipynb
+**/.ipynb_checkpoints
+**/node_modules
