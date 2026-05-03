@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/698d90739c22447d97596d29ff276f47/artifacts
+end_time: 1777557945231
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 698d90739c22447d97596d29ff276f47
+run_name: Decision Tree_reg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777557938713
+status: 3
+tags: []
+user_id: rohit

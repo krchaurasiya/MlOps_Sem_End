@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-fda6f73f3565454d9c8c89d1ab341929/artifacts
+creation_timestamp: 1777557971878
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557978145
+model_id: m-fda6f73f3565454d9c8c89d1ab341929
+model_type: null
+name: XGBoost
+source_run_id: 830e72fa5f0040138148c0fe026b51d5
+status: 2
+status_message: null

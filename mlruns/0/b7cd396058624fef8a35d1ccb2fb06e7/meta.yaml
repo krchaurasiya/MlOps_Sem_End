@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/0/b7cd396058624fef8a35d1ccb2fb06e7/artifacts
+end_time: 1777531314928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7cd396058624fef8a35d1ccb2fb06e7
+run_name: sincere-chimp-969
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777531314755
+status: 4
+tags: []
+user_id: rohit

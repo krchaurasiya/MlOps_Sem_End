@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-ef541291906245b59effbd4b5aebf2a9/artifacts
+creation_timestamp: 1777558033823
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777558045271
+model_id: m-ef541291906245b59effbd4b5aebf2a9
+model_type: null
+name: Naive Bayes
+source_run_id: 7178c05df3f148ab9b4fde49ff43182f
+status: 2
+status_message: null

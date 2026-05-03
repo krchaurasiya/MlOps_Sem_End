@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-87f7b8de34c54d2d8d0bd0f7b189184e/artifacts
+creation_timestamp: 1777557945607
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557952260
+model_id: m-87f7b8de34c54d2d8d0bd0f7b189184e
+model_type: null
+name: Random Forest
+source_run_id: 0eab540d01094ad9848500c5fef0d0b5
+status: 2
+status_message: null

@@ -1,0 +1,533 @@
+Place Name,Category,Address,Rating,Key Features/Highlights,Opening Hours,Contact Information,Price Range,Accessibility Information,Best Time to Visit,Reviews,Model_Training_Text_Feature
+Anjuna Fort,Adventure,Anjuna,4,Small coastal fort with ruins and sea views, popular for casual visits and photos.,Sunrise - Sunset,Not available,Free,Partially Accessible,October - May,"Place Name: Anjuna Fort
+Address: Anjuna
+Rating: 4
+Key Features/Highlights: Small coastal fort with ruins and sea views
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: October - May"
+Cabo de Rama,Adventure,15 km, India,"Reviewer: Ananya, 2023-04-10, Rating: 5, Text: Dramatic cliffs and sea views.;Reviewer: Rohan, 2023-07-15, Rating: 4, Text: Nice for a short picnic.;Reviewer: Tina, 2024-02-18, Rating: 4, Text: Clear ocean and great for photos.",Fort ruins on a cliff overlooking the sea, with panoramic views and calm surroundings.,Sunrise - Sunset,Not available,Free,Partially Accessible,"Place Name: Cabo de Rama
+Address: 15 km
+Rating:  India
+Key Features/Highlights: Reviewer: Ananya, 2023-04-10, Rating: 5, Text: Dramatic cliffs and sea views.;Reviewer: Rohan, 2023-07-15, Rating: 4, Text: Nice for a short picnic.;Reviewer: Tina, 2024-02-18, Rating: 4, Text: Clear ocean and great for photos.
+Price Range: Sunrise - Sunset
+Best Time to Visit: Free
+Reviews: Partially Accessible"
+Chapora Fort,Adventure,Bardez,4.2,Portuguese fort ruins overlooking Chapora River and beaches, popular for photos and sunsets.,Sunrise - Sunset,Not available,Free,Partially Accessible,October - May,"Place Name: Chapora Fort
+Address: Bardez
+Rating: 4.2
+Key Features/Highlights: Portuguese fort ruins overlooking Chapora River and beaches
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: October - May"
+Grand Island (Divar),Adventure,"Reis Magos jetty, Goa",4.4,"Scuba diving, snorkeling, dolphin spotting, coral reefs.",9AM-4PM,+91 98221 88888,$$$,Boat access,Oct-May,"{""reviewer"": ""Amit K."", ""date"": ""2025-05-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-25"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-04-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Grand Island (Divar)
+Address: Reis Magos jetty, Goa
+Rating: 4.4
+Key Features/Highlights: Scuba diving, snorkeling, dolphin spotting, coral reefs.
+Price Range: $$$
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2025-05-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-25"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-04-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Agonda Beach,Beach,"Agonda, Canacona, Goa 403706",4.6,"Virgin beach, turtle sanctuary, yoga retreats, tranquility.",24 Hours,Not available,Free,Partial,Nov-Mar,"{""reviewer"": ""Priya M."", ""date"": ""2025-12-13"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-08"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-28"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Agonda Beach
+Address: Agonda, Canacona, Goa 403706
+Rating: 4.6
+Key Features/Highlights: Virgin beach, turtle sanctuary, yoga retreats, tranquility.
+Price Range: Free
+Best Time to Visit: Nov-Mar
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-12-13"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-08"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-28"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Anjuna Beach,Beach,"Anjuna, Bardez, Goa 403509",4.4,"Wednesday Flea Market, hippie vibe, sunset drums, full moon parties.",24 Hours,Not available,Free,Limited,Oct-Apr,"{""reviewer"": ""Sneha R."", ""date"": ""2025-11-01"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-02-25"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-16"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2026-01-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-12-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-20"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Anjuna Beach
+Address: Anjuna, Bardez, Goa 403509
+Rating: 4.4
+Key Features/Highlights: Wednesday Flea Market, hippie vibe, sunset drums, full moon parties.
+Price Range: Free
+Best Time to Visit: Oct-Apr
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-11-01"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-02-25"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-16"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2026-01-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-12-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-20"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Anjuna Beach,Beach,Bardez,4.2,Known for flea markets, trance parties, and a relaxed hippieâ€‘style atmosphere.,24 Hours (Beach),Not available,Free,Partially Accessible,"Place Name: Anjuna Beach
+Address: Bardez
+Rating: 4.2
+Key Features/Highlights: Known for flea markets
+Price Range: 24 Hours (Beach)
+Best Time to Visit: Free
+Reviews: Partially Accessible"
+Arambol Beach,Beach,"Arambol, Pernem, Goa 403524",4.4,"Bohemian paradise, paragliding, drum circles, Sweet Lake.",24 Hours,Not available,Free,Limited,Nov-Mar,"{""reviewer"": ""Vikram P."", ""date"": ""2025-12-05"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-20"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Arambol Beach
+Address: Arambol, Pernem, Goa 403524
+Rating: 4.4
+Key Features/Highlights: Bohemian paradise, paragliding, drum circles, Sweet Lake.
+Price Range: Free
+Best Time to Visit: Nov-Mar
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-12-05"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-20"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Baga Beach,Beach,"Baga, Calangute, Goa 403516",4.3,"Water sports hub, nightlife capital, Saturday flea market, jet skiing, parasailing, 3km stretch.",24 Hours,Not available,Free,Partial ramps,Oct-May,"{""reviewer"": ""Priya M."", ""date"": ""2025-11-05"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-30"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-14"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-26"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-10"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Baga Beach
+Address: Baga, Calangute, Goa 403516
+Rating: 4.3
+Key Features/Highlights: Water sports hub, nightlife capital, Saturday flea market, jet skiing, parasailing, 3km stretch.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-11-05"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-30"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-14"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-26"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-10"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Baga Beach,Beach,Calangute,4.3,Famous for water sports, vibrant nightlife, beach shacks, scenic sunsets.,24 Hours (Beach),Not available,Free,"Place Name: Baga Beach
+Address: Calangute
+Rating: 4.3
+Key Features/Highlights: Famous for water sports
+Price Range:  scenic sunsets.
+Best Time to Visit: Not available
+Reviews: Free"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-09-09"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-09-02"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-13"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-05"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-03-03"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-09-09"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-09-02"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-13"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-05"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-03-03"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Priya M."", ""date"": ""2025-02-28"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-10-08"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-07"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-25"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-04-14"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-02-28"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-10-08"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-07"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-25"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-04-14"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-12-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-06-09"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-05-28"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-26"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-12-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-06-09"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-05-28"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-26"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Sneha R."", ""date"": ""2025-02-22"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-06"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-29"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-05-24"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-11-09"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-02-22"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-06"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-29"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-05-24"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-11-09"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-08-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-09-18"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-08"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-03"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-20"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-11-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-08-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-09-18"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-08"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-03"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-20"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-11-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Betalbatim Beach,Beach,"Betalbatim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-06-29"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-11-09"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-02-22"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-24"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-09-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Betalbatim Beach
+Address: Betalbatim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-06-29"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-11-09"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-02-22"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-24"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-09-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Calangute Beach,Beach,"Calangute, Bardez, Goa 403516",4.2,"Goa's Queen of Beaches, 8km golden sands, 100+ shacks, water sports, shopping.",24 Hours,Not available,Free,Partial,Nov-Mar,"{""reviewer"": ""Vikram P."", ""date"": ""2025-03-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-03-31"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-09-22"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-25"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-09-24"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Calangute Beach
+Address: Calangute, Bardez, Goa 403516
+Rating: 4.2
+Key Features/Highlights: Goa's Queen of Beaches, 8km golden sands, 100+ shacks, water sports, shopping.
+Price Range: Free
+Best Time to Visit: Nov-Mar
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-03-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-03-31"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-09-22"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-25"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-09-24"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Calangute Beach,Beach,Calangute,4.1,One of the longest and busiest beaches in North Goa, water sports, shacks, and shopping.,24 Hours (Beach),Not available,Free,"Place Name: Calangute Beach
+Address: Calangute
+Rating: 4.1
+Key Features/Highlights: One of the longest and busiest beaches in North Goa
+Price Range:  and shopping.
+Best Time to Visit: Not available
+Reviews: Free"
+Candolim Beach,Beach,"Candolim, Bardez, Goa 403515",4.3,"Upscale beach, water sports, luxury resorts nearby.",24 Hours,Not available,Free,Accessible,Oct-May,"{""reviewer"": ""Sneha R."", ""date"": ""2025-03-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-03"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-12"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Candolim Beach
+Address: Candolim, Bardez, Goa 403515
+Rating: 4.3
+Key Features/Highlights: Upscale beach, water sports, luxury resorts nearby.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-03-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-03"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-12"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Candolim Beach,Beach,Bardez,4.2,Closeâ€‘knit with Calangute, good for shacks, water sports, and family visits.,24 Hours (Beach),Not available,Free,"Place Name: Candolim Beach
+Address: Bardez
+Rating: 4.2
+Key Features/Highlights: Closeâ€‘knit with Calangute
+Price Range:  and family visits.
+Best Time to Visit: Not available
+Reviews: Free"
+Colva Beach,Beach,"Colva, Salcete, Goa 403708",4.3,"Queen of South Goa beaches, 20km white sands, Portuguese heritage.",24 Hours,Not available,Free,Accessible,Oct-Apr,"{""reviewer"": ""Rahul S."", ""date"": ""2025-07-25"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-22"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-02-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Colva Beach
+Address: Colva, Salcete, Goa 403708
+Rating: 4.3
+Key Features/Highlights: Queen of South Goa beaches, 20km white sands, Portuguese heritage.
+Price Range: Free
+Best Time to Visit: Oct-Apr
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-07-25"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-22"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-02-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-10-31"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-09"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-04"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-10-31"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-09"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-04"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Priya M."", ""date"": ""2025-03-22"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-11-04"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2026-01-01"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-03-22"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-11-04"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2026-01-01"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-08-19"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-10-31"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-10-03"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-28"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-08-19"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-10-31"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-10-03"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-28"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-08-31"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-29"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-04-24"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-02-27"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-08-31"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-29"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-04-24"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-02-27"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-03-06"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-21"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-14"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-03-06"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-21"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-04-14"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-10-17"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-04-07"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-10-17"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-04-07"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Miramar Beach,Beach,"Miramar Beach, Goa",4.2,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Priya M."", ""date"": ""2025-06-09"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-07-27"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Miramar Beach
+Address: Miramar Beach, Goa
+Rating: 4.2
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-06-09"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-06"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-08-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-07-27"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Miramar Beach,Beach,Dona Paula,3.9,Smaller beach near Panaji, mostly used by locals for walks and quiet time.,24 Hours (Beach),Not available,Free,Partially Accessible,October - May,"Place Name: Miramar Beach
+Address: Dona Paula
+Rating: 3.9
+Key Features/Highlights: Smaller beach near Panaji
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: October - May"
+Morjim Beach,Beach,"Morjim, Pernem, Goa 403512",4.5,"Little Russia, turtle nesting, windsurfing, serene waters.",24 Hours,Not available,Free,Partial,Nov-Jan,"{""reviewer"": ""Amit K."", ""date"": ""2025-05-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-14"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Morjim Beach
+Address: Morjim, Pernem, Goa 403512
+Rating: 4.5
+Key Features/Highlights: Little Russia, turtle nesting, windsurfing, serene waters.
+Price Range: Free
+Best Time to Visit: Nov-Jan
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2025-05-15"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-14"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Palolem Beach,Beach,"Ourem, Canacona, Goa 403702",4.5,"Crescent paradise, dolphin trips, eco huts, no commercialization.",24 Hours,Not available,Free,Partial,Nov-Mar,"{""reviewer"": ""Priya M."", ""date"": ""2025-10-12"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-09-23"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-12-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-13"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Palolem Beach
+Address: Ourem, Canacona, Goa 403702
+Rating: 4.5
+Key Features/Highlights: Crescent paradise, dolphin trips, eco huts, no commercialization.
+Price Range: Free
+Best Time to Visit: Nov-Mar
+Reviews: {""reviewer"": ""Priya M."", ""date"": ""2025-10-12"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-09-23"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-12-15"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-13"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Sneha R."", ""date"": ""2025-03-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-12-29"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-03"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-03-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-12-29"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-03"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2026-01-08"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-10-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-07"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2026-01-08"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-10-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-07"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Amit K."", ""date"": ""2025-10-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-27"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-12-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2025-10-05"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-27"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-12-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-08-04"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-29"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-10-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-08-04"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-29"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-10-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-05-29"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-07-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-05-29"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-09-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-07-26"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Sneha R."", ""date"": ""2025-07-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-03-12"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-02-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-07-15"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-03-12"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-02-22"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Sinquerim Beach,Beach,"Sinquerim Beach, Goa",4.3,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-11-10"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-10-30"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2026-01-12"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Sinquerim Beach
+Address: Sinquerim Beach, Goa
+Rating: 4.3
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-11-10"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-10-30"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2026-01-12"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Sinquerim Beach,Beach,Sinquerim,4,Near Fort Aguada, quieter beach with water sports and some shacks.,24 Hours (Beach),Not available,Free,Partially Accessible,October - May,"Place Name: Sinquerim Beach
+Address: Sinquerim
+Rating: 4
+Key Features/Highlights: Near Fort Aguada
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: October - May"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-11-11"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-08-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-26"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-11-11"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-08-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-26"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Amit K."", ""date"": ""2025-06-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-19"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-05"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2025-06-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-11-19"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-07-05"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-03-22"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-14"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-06-03"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-03-22"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-14"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-06-03"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Rahul S."", ""date"": ""2025-08-26"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-14"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-12-09"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-08-26"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-14"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-12-09"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Amit K."", ""date"": ""2026-01-28"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-19"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-10"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2026-01-28"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-19"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-10"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Utorda Beach,Beach,"Utorda Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-09-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-07-02"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Utorda Beach
+Address: Utorda Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-09-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-07-02"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-05"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Vagator Beach,Beach,"Vagator, Bardez, Goa 403512",4.4,"Cliff backdrop, Ozran beach, full moon parties, dramatic scenery.",24 Hours,Not available,Free,Limited,Nov-Feb,"{""reviewer"": ""Sneha R."", ""date"": ""2025-09-13"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-12"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-22"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Vagator Beach
+Address: Vagator, Bardez, Goa 403512
+Rating: 4.4
+Key Features/Highlights: Cliff backdrop, Ozran beach, full moon parties, dramatic scenery.
+Price Range: Free
+Best Time to Visit: Nov-Feb
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-09-13"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-03-12"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2026-01-22"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-02-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-08-23"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-28"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-06"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-06-17"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-02-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-08-23"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-28"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-06"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-06-17"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Sneha R."", ""date"": ""2025-09-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-07"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-15"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-20"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-09-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-06-07"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-03-15"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-20"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Amit K."", ""date"": ""2025-10-19"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2026-01-16"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-02"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Amit K."", ""date"": ""2025-10-19"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-05-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2026-01-16"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2026-01-02"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-03"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-06-23"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-23"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-06"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-09-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-21"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-06-23"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2026-01-23"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-06"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-09-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-08-21"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-03-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-17"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-12-08"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-03-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-06-17"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-12-08"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-04-01"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Varca Beach,Beach,"Varca Beach, Goa",4.4,"Beautiful beach, water sports, beach shacks.",24 Hours,Not available,Free,Partial,Oct-May,"{""reviewer"": ""Vikram P."", ""date"": ""2025-02-19"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-31"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-24"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-18"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-10-11"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}","Place Name: Varca Beach
+Address: Varca Beach, Goa
+Rating: 4.4
+Key Features/Highlights: Beautiful beach, water sports, beach shacks.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-02-19"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-31"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-24"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-18"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Neha G."", ""date"": ""2025-10-11"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}"
+Grand Island,Dive & Adventure,Approx. 8 km from Betim,4.3,Uninhabited island accessible by boat, known for snorkeling, beach activities, and ecoâ€‘trips.,9 AM - 5 PM (Boat tours),Not available,$$$,"Place Name: Grand Island
+Address: Approx. 8 km from Betim
+Rating: 4.3
+Key Features/Highlights: Uninhabited island accessible by boat
+Price Range:  and ecoâ€‘trips.
+Best Time to Visit: Not available
+Reviews: $$$"
+Basilica of Bom Jesus,Historical Site,"Old Goa, Bainguinim 403402",4.6,"UNESCO site, St Francis Xavier tomb, Portuguese Baroque.",9AM-6:30PM,+91 832 228 5431,Free,Accessible,Year-round,"{""reviewer"": ""Rahul S."", ""date"": ""2025-04-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-02-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-12-13"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-09-28"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Basilica of Bom Jesus
+Address: Old Goa, Bainguinim 403402
+Rating: 4.6
+Key Features/Highlights: UNESCO site, St Francis Xavier tomb, Portuguese Baroque.
+Price Range: Free
+Best Time to Visit: Year-round
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-04-02"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-02-19"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-12-13"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-09-28"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-04-15"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Basilica of Bom Jesus,Historical Site,Old Goa,4.6,"Reviewer: Maria, 2023-03-15, Rating: 5, Text: Profoundly historical and peaceful.;Reviewer: John, 2023-11-20, Rating: 4, Text: Great architecture and ambiance.;Reviewer: Anita, 2024-02-01, Rating: 4, Text: Crowded on weekends but still worth it.",Houses the mortal remains of St. Francis Xavier, UNESCO World Heritage Site, Baroque architecture.,9 AM - 6:30 PM,+91 832 221 4238,Free,"Place Name: Basilica of Bom Jesus
+Address: Old Goa
+Rating: 4.6
+Key Features/Highlights: Reviewer: Maria, 2023-03-15, Rating: 5, Text: Profoundly historical and peaceful.;Reviewer: John, 2023-11-20, Rating: 4, Text: Great architecture and ambiance.;Reviewer: Anita, 2024-02-01, Rating: 4, Text: Crowded on weekends but still worth it.
+Price Range:  Baroque architecture.
+Best Time to Visit: +91 832 221 4238
+Reviews: Free"
+Chapora Fort,Historical Site,"Vagator, Bardez 403512",4.6,"Dil Chahta Hai fort, epic Vagator views, sunset point.",24 Hours,Not available,Free,Steep climb,Oct-May,"{""reviewer"": ""Neha G."", ""date"": ""2025-09-27"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-23"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-12-11"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-11-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Chapora Fort
+Address: Vagator, Bardez 403512
+Rating: 4.6
+Key Features/Highlights: Dil Chahta Hai fort, epic Vagator views, sunset point.
+Price Range: Free
+Best Time to Visit: Oct-May
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-09-27"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-07-20"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-23"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-12-11"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-11-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Fort Aguada,Historical Site,"Sinquerim, Candolim 403515",4.5,"Asia's oldest lighthouse, Portuguese maritime fort.",9:30AM-6PM,Not available,Free,Partial,Oct-Mar,"{""reviewer"": ""Neha G."", ""date"": ""2025-09-07"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-01"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-09"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-08-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-09-01"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Fort Aguada
+Address: Sinquerim, Candolim 403515
+Rating: 4.5
+Key Features/Highlights: Asia's oldest lighthouse, Portuguese maritime fort.
+Price Range: Free
+Best Time to Visit: Oct-Mar
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-09-07"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-05-01"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-09"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-08-21"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Priya M."", ""date"": ""2025-09-01"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Fort Aguada,Historical Site,Chimbel,4.4,Portuguese fort with lighthouse, seaside views, and a small museum.,9 AM - 5:30 PM,+91 832 222 1234,Free,Partially Accessible,"Place Name: Fort Aguada
+Address: Chimbel
+Rating: 4.4
+Key Features/Highlights: Portuguese fort with lighthouse
+Price Range: 9 AM - 5:30 PM
+Best Time to Visit: Free
+Reviews: Partially Accessible"
+Reis Magos Fort,Historical Site,"Reis Magos, Bardez 403114",4.5,"Restored Portuguese fort, cultural center, Mandovi views.",9:30AM-5:30PM,+91 832 242 6455,â‚¹50,Partial,Oct-Mar,"{""reviewer"": ""Vikram P."", ""date"": ""2025-09-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-14"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Reis Magos Fort
+Address: Reis Magos, Bardez 403114
+Rating: 4.5
+Key Features/Highlights: Restored Portuguese fort, cultural center, Mandovi views.
+Price Range: â‚¹50
+Best Time to Visit: Oct-Mar
+Reviews: {""reviewer"": ""Vikram P."", ""date"": ""2025-09-16"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-14"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Amit K."", ""date"": ""2025-08-17"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Se Cathedral,Historical Site,Old Goa 403402,4.7,"Asia's largest church, UNESCO site, Bell of Goans.",7:30AM-6PM,+91 832 228 5431,Free,Accessible,Year-round,"{""reviewer"": ""Rahul S."", ""date"": ""2025-11-23"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-24"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-10"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}","Place Name: Se Cathedral
+Address: Old Goa 403402
+Rating: 4.7
+Key Features/Highlights: Asia's largest church, UNESCO site, Bell of Goans.
+Price Range: Free
+Best Time to Visit: Year-round
+Reviews: {""reviewer"": ""Rahul S."", ""date"": ""2025-11-23"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-12-24"", ""text"": ""Great experience overall."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-05-10"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Neha G."", ""date"": ""2025-05-01"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-12-02"", ""text"": ""Family friendly spot."", ""rating"": ""4""}"
+Palacio do DeÃ£o,Museum,Saligao,4.1,Colonialâ€‘era mansion showcasing Goanâ€‘Portuguese lifestyle and antiques.,10 AM - 5 PM,+91 832 222 5678,$$,Accessible,October - May,Not available,"Place Name: Palacio do DeÃ£o
+Address: Saligao
+Rating: 4.1
+Key Features/Highlights: Colonialâ€‘era mansion showcasing Goanâ€‘Portuguese lifestyle and antiques.
+Price Range: $$
+Best Time to Visit: October - May
+Reviews: Not available"
+Arvalem Waterfalls,Nature,Arvalem,4.4,Scenic waterfall with a short trek, popular among photographers and nature enthusiasts.,9 AM - 5 PM (Trek),Not available,Free,Partially Accessible,June - October,"Place Name: Arvalem Waterfalls
+Address: Arvalem
+Rating: 4.4
+Key Features/Highlights: Scenic waterfall with a short trek
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: June - October"
+Bondla Wildlife Sanctuary,Nature,"Bondla, Ponda 403401",4.3,"Goa's oldest sanctuary, mini zoo, botanical garden.",9AM-5PM,+91 832 234 0491,$,Accessible,Oct-Mar,"{""reviewer"": ""Sneha R."", ""date"": ""2025-04-30"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-16"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-07-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}","Place Name: Bondla Wildlife Sanctuary
+Address: Bondla, Ponda 403401
+Rating: 4.3
+Key Features/Highlights: Goa's oldest sanctuary, mini zoo, botanical garden.
+Price Range: $
+Best Time to Visit: Oct-Mar
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-04-30"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-04-16"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-07-23"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}"
+Dudhsagar Falls,Nature,"Sonaulim, South Goa 403410",4.7,"310m 4-tier waterfall, jeep safari, Western Ghats.",8AM-4PM,+91 832 261 2595,$$,Jeep only,Jun-Oct,"{""reviewer"": ""Sneha R."", ""date"": ""2025-05-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-05"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-07-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-14"", ""text"": ""Great experience overall."", ""rating"": ""4""}","Place Name: Dudhsagar Falls
+Address: Sonaulim, South Goa 403410
+Rating: 4.7
+Key Features/Highlights: 310m 4-tier waterfall, jeep safari, Western Ghats.
+Price Range: $$
+Best Time to Visit: Jun-Oct
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-05-21"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-05-05"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-07-28"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Amit K."", ""date"": ""2025-06-14"", ""text"": ""Great experience overall."", ""rating"": ""4""}"
+Dudhsagar Falls,Nature,Sonaulim,4.7,Majestic tiered waterfall, surrounded by lush Western Ghats, accessible by jeep safari and trekking.,8 AM - 4 PM (Jeep service),Not available,$$,Not Accessible,"Place Name: Dudhsagar Falls
+Address: Sonaulim
+Rating: 4.7
+Key Features/Highlights: Majestic tiered waterfall
+Price Range: 8 AM - 4 PM (Jeep service)
+Best Time to Visit: $$
+Reviews: Not Accessible"
+Netravali Bubbling Lake,Nature,"Netravali, Sanguem 403706",4.6,"Natural CO2 bubbling lake, trekking, waterfall nearby.",6AM-6PM,Not available,$,Trekking required,Monsoon,"{""reviewer"": ""Neha G."", ""date"": ""2025-02-25"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-14"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-03-21"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}","Place Name: Netravali Bubbling Lake
+Address: Netravali, Sanguem 403706
+Rating: 4.6
+Key Features/Highlights: Natural CO2 bubbling lake, trekking, waterfall nearby.
+Price Range: $
+Best Time to Visit: Monsoon
+Reviews: {""reviewer"": ""Neha G."", ""date"": ""2025-02-25"", ""text"": ""Romantic and beautiful."", ""rating"": ""5""}; {""reviewer"": ""Sneha R."", ""date"": ""2025-03-14"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Priya M."", ""date"": ""2025-03-21"", ""text"": ""Perfect for beach lovers!"", ""rating"": ""5""}"
+Palolem Beach,Nature,Village of Patnem,4.5,"Reviewer: Sofia, 2023-04-22, Rating: 5, Text: Most peaceful and scenic beach I've visited.;Reviewer: David, 2023-10-10, Rating: 4, Text: Great for relaxation and dolphin trips.;Reviewer: Riya, 2024-02-15, Rating: 5, Text: Quiet and clean, highly recommend.",Calm crescentâ€‘shaped beach, small island rock, boating, dolphin trips, and sunset views.,24 Hours (Beach),"Place Name: Palolem Beach
+Address: Village of Patnem
+Rating: 4.5
+Key Features/Highlights: Reviewer: Sofia, 2023-04-22, Rating: 5, Text: Most peaceful and scenic beach I've visited.;Reviewer: David, 2023-10-10, Rating: 4, Text: Great for relaxation and dolphin trips.;Reviewer: Riya, 2024-02-15, Rating: 5, Text: Quiet and clean, highly recommend.
+Price Range:  boating
+Best Time to Visit:  and sunset views.
+Reviews: 24 Hours (Beach)"
+Spice Plantation Tours,Nature,Various farms near Ponda,4.3,Farm tours showcasing pepper, cardamom, vanilla, and other spices, often with guided walks and meals.,8 AM - 5 PM (varies by farm),Not available,"Place Name: Spice Plantation Tours
+Address: Various farms near Ponda
+Rating: 4.3
+Key Features/Highlights: Farm tours showcasing pepper
+Price Range:  and other spices
+Best Time to Visit: 8 AM - 5 PM (varies by farm)
+Reviews: Not available"
+Casino Cruises,Nightlife,Stem Maid,4,6000,"Reviewer: Mike, 2023-06-01, Rating: 4, Text: Fun night of gambling and drinks.;Reviewer: Priya, 2023-09-15, Rating: 3, Text: Loud and crowded.;Reviewer: Rohit, 2024-02-22, Rating: 4, Text: Great views of the river at night.",Gambling cruises on the Mandovi River with music, bars, and games.,Evenings only (varies by operator),Not available,"Place Name: Casino Cruises
+Address: Stem Maid
+Rating: 4
+Key Features/Highlights: 6000
+Price Range:  bars
+Best Time to Visit: Evenings only (varies by operator)
+Reviews: Not available"
+Tito's Street,Nightlife,Arambol,4.1,Not available,Not available,Not available,Not available,Not available,Not available,Not available,"Place Name: Tito's Street
+Address: Arambol
+Rating: 4.1
+Key Features/Highlights: Not available
+Price Range: Not available
+Best Time to Visit: Not available
+Reviews: Not available"
+Dona Paula,Religious Place,Dona Paula,4.1,Scenic viewpoint overlooking the Arabian Sea, popular photo and romantic spot.,24 Hours (Viewpoint),Not available,Free,Partially Accessible,October - May,"Place Name: Dona Paula
+Address: Dona Paula
+Rating: 4.1
+Key Features/Highlights: Scenic viewpoint overlooking the Arabian Sea
+Price Range: Not available
+Best Time to Visit: Partially Accessible
+Reviews: October - May"
+Mangeshi Temple,Religious Place,Ponda,4.5,Prominent Hindu temple dedicated to Lord Mangesh, with beautiful carvings and architecture.,5 AM - 9 PM,Not available,Free,Accessible,Yearâ€‘round,"Place Name: Mangeshi Temple
+Address: Ponda
+Rating: 4.5
+Key Features/Highlights: Prominent Hindu temple dedicated to Lord Mangesh
+Price Range: Not available
+Best Time to Visit: Accessible
+Reviews: Yearâ€‘round"
+Mangueshi Temple,Religious Place,"Mangueshi, Ponda 403410",4.7,"Largest & oldest Mangeshi temple, 400yr Goan architecture.",6AM-9PM,+91 832 234 0491,Free,Accessible,Nov (Kartik month),"{""reviewer"": ""Sneha R."", ""date"": ""2025-05-16"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-09-13"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-03"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}","Place Name: Mangueshi Temple
+Address: Mangueshi, Ponda 403410
+Rating: 4.7
+Key Features/Highlights: Largest & oldest Mangeshi temple, 400yr Goan architecture.
+Price Range: Free
+Best Time to Visit: Nov (Kartik month)
+Reviews: {""reviewer"": ""Sneha R."", ""date"": ""2025-05-16"", ""text"": ""Family friendly spot."", ""rating"": ""4""}; {""reviewer"": ""Vikram P."", ""date"": ""2025-09-13"", ""text"": ""Best in Goa! 5 stars."", ""rating"": ""5""}; {""reviewer"": ""Rahul S."", ""date"": ""2025-10-03"", ""text"": ""Amazing place! Must visit!"", ""rating"": ""5""}"
+Old Goa Churches,Religious Place,Old Goa,4.5,Cluster of historic churches and religious sites from the Portuguese era.,Varies by church,Not available,Free,Accessible,Yearâ€‘round,Not available,"Place Name: Old Goa Churches
+Address: Old Goa
+Rating: 4.5
+Key Features/Highlights: Cluster of historic churches and religious sites from the Portuguese era.
+Price Range: Free
+Best Time to Visit: Yearâ€‘round
+Reviews: Not available"
+Shri Nagueshi Temple,Religious Place,Ponda,4.4,Hindu temple dedicated to Lord Shiva, known for intricate woodwork and carvings.,5 AM - 8 PM,Not available,Free,Accessible,Yearâ€‘round,"Place Name: Shri Nagueshi Temple
+Address: Ponda
+Rating: 4.4
+Key Features/Highlights: Hindu temple dedicated to Lord Shiva
+Price Range: Not available
+Best Time to Visit: Accessible
+Reviews: Yearâ€‘round"
+Anjuna Flea Market,Shopping,Anjuna,4,Weekly flea market selling clothes, jewelry, souvenirs, and street food.,6 PM - 11 PM (Wednesdays),Not available,$$,"Place Name: Anjuna Flea Market
+Address: Anjuna
+Rating: 4
+Key Features/Highlights: Weekly flea market selling clothes
+Price Range:  and street food.
+Best Time to Visit: Not available
+Reviews: $$"

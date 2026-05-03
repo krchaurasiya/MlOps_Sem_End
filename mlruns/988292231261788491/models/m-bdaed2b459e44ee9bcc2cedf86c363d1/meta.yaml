@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-bdaed2b459e44ee9bcc2cedf86c363d1/artifacts
+creation_timestamp: 1777557978358
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557988656
+model_id: m-bdaed2b459e44ee9bcc2cedf86c363d1
+model_type: null
+name: Logistic Regression
+source_run_id: 17524e63e73e4e6d8b9e5c37fe162586
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-85141da01016488fb80cd9dc26a396d9/artifacts
+creation_timestamp: 1777558012474
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777558022444
+model_id: m-85141da01016488fb80cd9dc26a396d9
+model_type: null
+name: SVM
+source_run_id: 00e8254331644eee9579ecad5a67ed74
+status: 2
+status_message: null

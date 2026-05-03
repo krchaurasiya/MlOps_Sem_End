@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-53aeb4d644e6462b8503c7aa5b15267b/artifacts
+creation_timestamp: 1777557938846
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557945209
+model_id: m-53aeb4d644e6462b8503c7aa5b15267b
+model_type: null
+name: Decision Tree
+source_run_id: 698d90739c22447d97596d29ff276f47
+status: 2
+status_message: null

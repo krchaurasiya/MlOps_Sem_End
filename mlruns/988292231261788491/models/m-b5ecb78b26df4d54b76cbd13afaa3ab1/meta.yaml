@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-b5ecb78b26df4d54b76cbd13afaa3ab1/artifacts
+creation_timestamp: 1777557920049
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557938685
+model_id: m-b5ecb78b26df4d54b76cbd13afaa3ab1
+model_type: null
+name: Linear Regression
+source_run_id: 2744569b4c5c4ea7b0da932d746596a4
+status: 2
+status_message: null

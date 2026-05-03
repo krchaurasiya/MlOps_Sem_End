@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/7178c05df3f148ab9b4fde49ff43182f/artifacts
+end_time: 1777558045308
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 7178c05df3f148ab9b4fde49ff43182f
+run_name: Naive Bayes_clf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558033583
+status: 3
+tags: []
+user_id: rohit

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/2f9da1d870954674b59369dee4b0cc69/artifacts
+end_time: 1777558056684
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 2f9da1d870954674b59369dee4b0cc69
+run_name: Gradient Boosting_clf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558045335
+status: 3
+tags: []
+user_id: rohit

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-d31b6ae22e6e4b43a05f5930e57700b9/artifacts
+creation_timestamp: 1777557952554
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557959196
+model_id: m-d31b6ae22e6e4b43a05f5930e57700b9
+model_type: null
+name: Gradient Boosting
+source_run_id: 4debadbfc2eb4afcaf2ab008f7efca4a
+status: 2
+status_message: null

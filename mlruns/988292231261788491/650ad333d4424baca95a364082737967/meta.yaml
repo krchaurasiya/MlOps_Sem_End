@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/650ad333d4424baca95a364082737967/artifacts
+end_time: 1777558069392
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 650ad333d4424baca95a364082737967
+run_name: LightGBM_clf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558056713
+status: 3
+tags: []
+user_id: rohit

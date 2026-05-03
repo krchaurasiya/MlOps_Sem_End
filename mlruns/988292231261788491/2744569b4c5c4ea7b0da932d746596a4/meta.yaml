@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/2744569b4c5c4ea7b0da932d746596a4/artifacts
+end_time: 1777557938705
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 2744569b4c5c4ea7b0da932d746596a4
+run_name: Linear Regression_reg
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777557919911
+status: 3
+tags: []
+user_id: rohit

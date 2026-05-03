@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/636f172c292b48c094bbe36799f5da75/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 636f172c292b48c094bbe36799f5da75
+run_name: grandiose-pig-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558070275
+status: 1
+tags: []
+user_id: rohit

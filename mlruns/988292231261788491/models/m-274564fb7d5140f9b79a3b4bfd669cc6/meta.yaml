@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/models/m-274564fb7d5140f9b79a3b4bfd669cc6/artifacts
+creation_timestamp: 1777557965745
+experiment_id: '988292231261788491'
+last_updated_timestamp: 1777557971656
+model_id: m-274564fb7d5140f9b79a3b4bfd669cc6
+model_type: null
+name: KNN
+source_run_id: c74ca4ffe8d3440baddb0e5cb9f16913
+status: 2
+status_message: null

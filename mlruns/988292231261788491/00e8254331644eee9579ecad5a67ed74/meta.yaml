@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/00e8254331644eee9579ecad5a67ed74/artifacts
+end_time: 1777558022486
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 00e8254331644eee9579ecad5a67ed74
+run_name: SVM_clf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558012225
+status: 3
+tags: []
+user_id: rohit

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/rohit/Desktop/MlOps_Sem_End/mlruns/988292231261788491/5617f42488dc42fc92b73a724b1a30d9/artifacts
+end_time: 1777558033557
+entry_point_name: ''
+experiment_id: '988292231261788491'
+lifecycle_stage: active
+run_id: 5617f42488dc42fc92b73a724b1a30d9
+run_name: KNN_clf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777558022514
+status: 3
+tags: []
+user_id: rohit
